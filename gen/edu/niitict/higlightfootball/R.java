@@ -75,7 +75,7 @@ public final class R {
         public static final int list_slidermenu=0x7f0b0002;
         public static final int pager=0x7f0b0008;
         public static final int pager_tab_strip=0x7f0b0009;
-        public static final int search_btSearch=0x7f0b0003;
+        public static final int search_edText=0x7f0b0003;
         public static final int title=0x7f0b0005;
         public static final int txtLabel=0x7f0b0007;
     }
