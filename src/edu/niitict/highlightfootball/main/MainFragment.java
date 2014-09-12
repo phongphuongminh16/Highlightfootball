@@ -33,7 +33,7 @@ public class MainFragment extends Fragment {
 		super.onResume();
 		fm = getActivity().getSupportFragmentManager();
 		pagerAdapter = new MyFragmentPagerAdapter(fm);
-		pagerAdapter.notifyDataSetChanged();
+		pager.setAdapter(pagerAdapter);
 
 	}
 }
