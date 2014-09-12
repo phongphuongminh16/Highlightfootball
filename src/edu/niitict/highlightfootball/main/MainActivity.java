@@ -51,6 +51,7 @@ public class MainActivity extends FragmentActivity {
 
 		// load slide menu items
 		navMenuTitles = getResources().getStringArray(R.array.nav_drawer_items);
+		//hihi. Hehe
 
 		// nav drawer icons from resources
 		navMenuIcons = getResources()
