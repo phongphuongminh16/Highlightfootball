@@ -179,7 +179,7 @@ public class MainActivity extends FragmentActivity {
 		Fragment fragment = null;
 		switch (position) {
 		case 0:
-			fragment = new MainFragment();
+			fragment = new ChanelsFragment();
 			break;
 		case 1:
 			// fragment = new FindPeopleFragment();
